@@ -1,7 +1,6 @@
 # GUI_Calculator
-GUI Calculator using Tkinter only.
+GUI Calculator using Tkinter.
 
+Dependencies: tkinter
 
-Dependencies: Tkinter only
-
-Tested on ubuntu 20.04 but should work fine on Windows too.
+Tested on ubuntu 20.04 with Python 3.7 but should work fine on Windows too.
